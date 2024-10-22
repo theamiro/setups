@@ -1,4 +1,4 @@
-# setups
+# Setups
 
 Developer Environment setup files
 
